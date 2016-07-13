@@ -1,6 +1,13 @@
 crisps
 dips
 nachos
+<<<<<<< HEAD
 i don't like nachos, we should get hummus
 cuecumber
 sweet chilli sensations
+=======
+doughnuts
+party rings
+wagon wheels
+iced gems
+>>>>>>> origin/master
